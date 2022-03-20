@@ -1,4 +1,4 @@
-name: voila-gallery-country-indicators
+name: sondra-tester
 channels:
 - conda-forge
 dependencies:
